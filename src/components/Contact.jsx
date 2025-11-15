@@ -122,7 +122,7 @@ export default function Contact() {
           <Github size={28} />
         </a>
         <a
-          href="https://linkedin.com/in/abdulwajihikhan"
+          href="https://linkedin.com/in/abdul-wajihi-khan-98957a204"
           target="_blank"
           rel="noopener noreferrer"
           className="text-gray-300 hover:text-teal-400 transition"
